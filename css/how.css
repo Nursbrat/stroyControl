@@ -1,0 +1,138 @@
+.how{
+  margin: 0 60px    ; 
+}
+.how__content{
+display: flex;
+
+
+}
+.how__leftside{
+
+}
+.how__title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 32px;
+    line-height: 48px;
+    color: #212B31;
+    width: 462px;
+    height: 64px;
+
+
+}
+.how__info{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400px;
+font-size: 20px;
+line-height: 32px;
+color: #72787D;
+width: 462px;
+height: 64px;
+}
+.how__img{
+width: 336px;
+height: 392px;
+}
+.how__name{
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 400px;
+font-size: 17px;
+line-height: 24px;
+color: #0e1114;
+}
+.how__des{
+ width: 448px;
+height: 96px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #72787D;
+}
+.how__right{
+    position: relative;
+    margin-right: 1000px;
+margin-left: 100px;
+
+}
+.how__icon{
+    position: absolute;
+    left:   -30px;
+}
+.how_n{
+    position: absolute;
+    left:-15px;
+padding-top: 5px;
+    
+}
+.how__btns{
+    display: flex;
+    padding-top: 30px;
+    padding-right: 300px;
+    
+}
+
+.how__black{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 13px 30    px;
+    width: 166px;
+    height: 50px;
+    background: #212B31;
+    border: 1px solid #212B31;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+    margin-right: 20px;
+    
+   
+      
+}
+.how__text{
+height: 24px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400px;
+font-size: 17px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+
+
+
+}
+.how__white{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 13px 25px;
+    width: 149px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1px solid #DADEDF;
+    border-radius: 4px;
+   
+    
+
+
+    
+}
+.how__two{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400px;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+color: #212B31;
+
+
+
+}

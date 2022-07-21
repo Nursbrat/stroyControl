@@ -1,0 +1,60 @@
+.promise__content{
+    margin-top: 144px;
+}
+
+.promise__title{
+   font-family: 'Inter';
+   font-weight: 400px;
+   font-size: 32px;
+   color: #212B31;
+   margin-top: 144px;
+   width:778px;
+   margin-left:330px;
+   margin: 0 auto;
+
+   }
+   
+.promise__sector{
+display: flex;
+margin-top: 168px;
+
+
+   }
+.promise__info{
+margin-bottom: 100px;
+}
+.promise__subtitle{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 32px;
+color:black;
+margin-top: 168px;
+line-height: 48px;
+width:479px;
+
+}
+.promise__description{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400px;
+font-size: 20px;  
+color: #72787D;
+margin-top: 16px;
+ margin-bottom: 26px;
+  width:542px;
+
+}   
+.promise__link{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+margin-top: 28px;
+position: absolute;
+}
+
+.promise__img{
+    width:463px;
+    height: 400px;
+    margin-top: 100x;
+    
+}

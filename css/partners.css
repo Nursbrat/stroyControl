@@ -1,0 +1,11 @@
+
+  .partners__most{
+    display: flex;
+    justify-content: space-around;
+}
+.partners__one{
+  margin-top:10px;
+  display:flex;
+  justify-content:center;
+
+}

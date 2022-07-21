@@ -1,0 +1,174 @@
+.made{
+
+    background: #212B31;
+    border-radius: 0px;
+    position: relative;
+}
+
+.made__title{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+color: #FFFFFF;
+margin-top: 144px;
+}
+.made__subtitle{
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.made__info{
+    padding-left: 10px;
+
+}
+.made__li{
+position:absolute;
+left:10px;
+
+}
+.made__name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin:10px;
+    width: 543px;
+   
+
+}
+.made__description{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: rgba(255, 255, 255, 0.75);
+width: 549px;
+margin-top: 20px;
+padding-left: 10px;
+
+
+}
+.made__item{
+    padding-left:32px;
+    position:relative;
+   
+}
+.made__img{
+position: absolute;
+width: 618px;
+height: 493px;
+left: 700px;
+top: 144px;
+border-radius: 0px;
+}
+.made__box{
+  width: 350px;
+  margin-right: 33px;
+  margin-top: 124px;
+
+}
+.made-footer__title{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+.made-footer__info{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: rgba(255, 255, 255, 0.75);
+height: 120px;
+width:340px;
+
+
+
+}
+.made__footer{
+    display: flex;
+    justify-content: space-around;
+    margin-right:100px;
+   margin-bottom: 90px;
+   margin-left:100px;
+
+}
+.made-footer__icon{
+    margin-left: 150px;
+}
+.made__btns{
+display: flex;
+margin-top: 40px;
+padding:5px;
+margin-left: 16px;
+
+}
+.made__white{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 13px 25px;
+    gap: 10px;
+    width: 149px;
+    height: 50px;
+    background: #ecf0f3;
+    border: 1px solid #DADEDF;
+    box-shadow: 0px 2px 3px rgba(226, 218, 218, 0.16);
+    border-radius: 4px;
+    
+}
+.made__zak{
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+text-align: center;
+color: #212B31;
+}
+.made__black{
+ box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13px 25px;
+gap: 10px;
+width: 149px;
+height: 50px;
+background: #212B31;
+border: 1px solid #DADEDF;
+box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+border-radius: 4px;
+margin-left: 16px;
+
+
+
+}
+.made__pod{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+
+
+}

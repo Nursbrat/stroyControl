@@ -1,0 +1,59 @@
+.question__content{
+    margin-right:50px;
+}
+.question__title{
+     font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+text-align: center;
+color: #212B31;
+margin-right: 200px;
+margin-top: 136px;
+}
+.question__description{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+text-align: center;
+color: #72787D;
+width: 827px;
+}
+.question__sector{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+.question__subtitle{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: #000000;
+}
+.question__img{
+    width: 402px;
+    margin-right: 91px; 
+    m   
+}
+.question__info{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #72787D;
+width: 500px;
+}
+
+.question__text{
+    width:550px;
+    margin-top: 54px;
+}
